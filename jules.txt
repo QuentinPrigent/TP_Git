@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 CHANGEZ MON PC!!!!!!!
-=======
-bijour les amis
-ji m'appelle jules ben denis
->>>>>>> 5e633c84d3c29110fb4ccf62c86f172b1d89015c
+C'est la solution de Thibaut qui est correct
